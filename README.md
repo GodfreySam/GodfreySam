@@ -5,16 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-<table>
-  <tr>
-    <td>
+<p>
+
     > Hi there 👋
     > I am Godfrey Samuel
     > Welcome to my github  
     > where all things code happens.  
-    </td>
-    <td>
-    <img src="https://res.cloudinary.com/freyman/image/upload/v1651579270/techy_dpxxhw.jpg" width="500" />
-    </td>
-  </tr>
-</table>
+
+    <img src="https://res.cloudinary.com/freyman/image/upload/v1651579270/techy_dpxxhw.jpg" width="500" align="left" />
+
+</p>

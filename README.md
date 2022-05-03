@@ -5,13 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-<p>
+  **Hi there 👋**
+  >
+  **_I am Godfrey Samuel_**
+  >
+  **_Welcome to my github_**  
+  >
+  **_where all things code happens._** 
 
-    > Hi there 👋
-    > I am Godfrey Samuel
-    > Welcome to my github  
-    > where all things code happens.  
-
-    <img src="https://res.cloudinary.com/freyman/image/upload/v1651579270/techy_dpxxhw.jpg" width="500" align="left" />
-
+<p align="left"> 
+    <img src="https://res.cloudinary.com/freyman/image/upload/v1651579270/techy_dpxxhw.jpg" width="500"  />
 </p>
+
+

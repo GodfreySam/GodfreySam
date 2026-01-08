@@ -1,16 +1,9 @@
+# Hi, I'm Godfrey Samuel 👋
 
+**Fullstack Engineer | Founding Engineer @ [Safegeeg](https://safegeeg.com) | Consulting CTO @ [Urbanwish](https://urbanwish.com)**
 
-<!--
-**GodfreySam/GodfreySam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/godfreysam) | [Portfolio](https://godfreyo.link) | godfreysam09@gmail.com
 
-Here are some ideas to get you started:
--->
- **Hi there 👋**
-  >
-  **_I am Godfrey Samuel_**
-  >
-  **_Welcome to my github_**  
-  >
-  **_where all things code happens._** 
+---
 
-
+*"Where all things code happens."*

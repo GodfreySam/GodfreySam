@@ -1,6 +1,6 @@
 # Hi, I'm Godfrey Samuel 👋
 
-**Fullstack Engineer | Founding Engineer @ [Safegeeg](https://safegeeg.com) | Consulting CTO @ [Urbanwish](https://urbanwish.com)**
+**Fullstack Engineer | Lead Engineer @ [Safegeeg](https://safegeeg.com) | Consulting CTO @ [Urbanwish](https://urbanwish.com)**
 
 Building **[DbRevel](https://dbrevel.io)** - An AI-powered database SDK that converts natural language into secure, optimized queries for any database. Designed with scalability in mind, it supports multiple AI models and eliminates 60% of backend boilerplate—so developers can ship faster, startups can move leaner, and databases become accessible to everyone by intent.
 
